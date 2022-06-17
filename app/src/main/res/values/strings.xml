@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multiautocompletekot12</string>
+    <string name="fruits">Text for input \n\nApple,mango,kiwi,berry,peach,banana,fig,strawberry,plum,raspberry,watermelon,blackberry,guava,grapes,pineapple,coconut,pear,papaya,apricot,avocado,cranberry,gooseberry,pineberry,star fruit,lime,date,passion fruit,dragon fruit</string>
+    <string name="enter_fruit_name">enter fruit name</string>
+</resources>
